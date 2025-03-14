@@ -51,12 +51,9 @@ This project implements a stereo vision system using YOLO for object detection. 
 
 - `main.py`: Main script for processing video frames and detecting objects.
 - `yolov5su.pt` and `yolov5nu.pt`: Pre-trained YOLO model weights.
-- `stereo v1.pdf`: Documentation or report related to the project.
+- `stereo v1.pdf`: model dimension file.
 - `Body1.stl`: 3D model file, possibly used for visualization or simulation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
